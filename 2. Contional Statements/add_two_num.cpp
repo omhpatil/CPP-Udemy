@@ -1,3 +1,5 @@
+// here are some ways to add numbers
+
 #include<iostream>
 using namespace std;
 
