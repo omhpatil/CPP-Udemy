@@ -11,7 +11,7 @@ int main()
     cout<<"Enter breadth : ";
     cin>>breadth;
 
-    res = (length*breadth)/2;
+    res = (length*breadth)/2;  //formula for area of triangle
     cout<<"Area of triangle is : "<<res;
 
     return 0;
